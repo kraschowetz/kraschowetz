@@ -1,6 +1,3 @@
-### programador front & back end
-- C
-- C++
-- Rust
-- Java
-- Javascript
+:page_facing_up:
+* foo
+  _ bar
