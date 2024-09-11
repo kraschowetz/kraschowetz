@@ -1,4 +1,4 @@
-:page_facing_up: Linguagesn que uso:
+:page_facing_up: tenho interesse em:
 - C
 - C++
 - Rust
