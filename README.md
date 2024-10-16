@@ -1,5 +1,9 @@
-:page_facing_up: tenho interesse em:
+# gamedev & estudante de programação
+
+## tenho interesse em:
 - C
 - C++
 - Rust
+- Godot
+- Unity
 - Javascript
