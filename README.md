@@ -4,7 +4,7 @@
 ---
 
 ### Sobre mim
-**programador/desenvolvedor | Fullstack web | Programador gráfico **
+**programador/desenvolvedor | Fullstack web | Programador gráfico**
 
 ---
 
