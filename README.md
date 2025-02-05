@@ -17,4 +17,8 @@ Também tenho experiência acadêmica com o desenvolvimento de sites e aplicativ
 
 ---
 
+### Técnologias
+
+![image]({https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white})
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kraschowetz&show_icons=true&theme=gruvbox&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
